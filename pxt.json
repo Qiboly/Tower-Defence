@@ -1,0 +1,12 @@
+{
+    "name": "EALAB",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "installedVersion": "pub:28457-11898-54366-33640"
+}
