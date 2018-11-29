@@ -1,5 +1,5 @@
 {
-    "name": "EALAB",
+    "name": "Tower-Defence",
     "dependencies": {
         "core": "*"
     },
